@@ -11,6 +11,6 @@
 <p><strong>Rest</strong><br>
 A radio initializes itself in the <code>rest</code> state. In this state, the radio polls the LoRa IC for incoming messages and any serial data queued on it’s USB interface. If there is an incoming message, the state is switched to <code>receiving</code> and if there is data on the serial port, the state is switched to <code>sending</code>.<br>
 <strong>Receiving</strong><br>
-Before a radio locks itself into receiving, it first checks that the message is directed to itself.<br>
+Before a radio locks itself into receiving, it first checks that the message is directed to itself. a<br>
 <strong>Sending</strong></p>
 
