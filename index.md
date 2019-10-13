@@ -1,4 +1,6 @@
-
+---
+layout: default
+---
 
 # ArduSub
 ArduSub is a fork of the popular Ardupilot suite designed to operate Blue Robotic's BlueROV. Ardupilot includes the controller's firmware sources, message declarations, and several tools for interacting or modifying Ardupilot controllers. 
