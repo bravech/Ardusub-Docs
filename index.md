@@ -3,6 +3,10 @@
 
 ---
 
+<hr>
+<h2 id="layout-defaulttitle-configurationnav_order-2">layout: default<br>
+title: Configuration<br>
+nav_order: 2</h2>
 <h1 id="ardusub">ArduSub</h1>
 <p>ArduSub is a fork of the popular Ardupilot suite designed to operate Blue Robotic’s BlueROV. Ardupilot includes the controller’s firmware sources, message declarations, and several tools for interacting or modifying Ardupilot controllers.</p>
 <h2 id="packet-radio">Packet Radio</h2>
